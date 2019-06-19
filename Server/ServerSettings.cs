@@ -17,9 +17,9 @@
 
         public ServerSettings()
         {
-            Port = 4499;
-            MaxPlayers = 16;
-            Name = "Simple GTA Server";
+            Port = 9486;
+            MaxPlayers =6 ;
+            Name = "GK'S LSPDFR SERVER";
             Password = "changeme";
             PasswordProtected = false;
             Gamemode = "freeroam";
